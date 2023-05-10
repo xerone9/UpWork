@@ -33,8 +33,6 @@ Your bid is set to 11 Connects.
 ## Cover Letter
 Hi,
 
-Hi,
-
 I haven't found the excel file attached. I had created a webscrapping bot that read the website you provided and prepared excel file as you asked for. Please find the attachment
 
 Please let me know If I could be any assistance
