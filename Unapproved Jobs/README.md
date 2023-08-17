@@ -20,3 +20,5 @@ job 9 = REMOVED... It was something like reading a picture and creating the exce
 job 10 = Scrape a website for me with Python which I can use in future as website adds new data
 
 job 11 = Phyton - Copy selected text from chrome to excel
+
+job 12 = We’re looking for someone to scrape these 87 Shopify sites for their women’s products.
