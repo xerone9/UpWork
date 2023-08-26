@@ -22,3 +22,5 @@ job 10 = Scrape a website for me with Python which I can use in future as websit
 job 11 = Phyton - Copy selected text from chrome to excel
 
 job 12 = We’re looking for someone to scrape these 87 Shopify sites for their women’s products.
+
+job 14 = Python calculating script.
