@@ -24,3 +24,7 @@ job 11 = Phyton - Copy selected text from chrome to excel
 job 12 = We’re looking for someone to scrape these 87 Shopify sites for their women’s products.
 
 job 14 = Python calculating script.
+
+job 15 = Need to automate audio recordings of 1000 words, pronounced by Google
+
+job 16 = Research to find company logos. Quick job, 1-2hrs today.
